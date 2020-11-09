@@ -1,16 +1,19 @@
-### Hi there 👋
+### 🏢 Microsoft Work Account
 
-<!--
-**jasoncabot-ms/jasoncabot-ms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Jason Cabot
 
-Here are some ideas to get you started:
+Cloud Solution Architect - Application Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Microsoft
+
+
+# GitHub Demos
+
+* [Azure DevOps Integration](jasoncabot-ms/devops-demo-react-app-api)
+* [Codespaces](jasoncabot-ms/devops-demo-codespaces)
+* [Advanced Security](jasoncabot-ms/devops-demo-code-scanning)
+
+# AKS Demos
+
+* [Azure Arc](jasoncabot-ms/aks-arc-gitops)
+* [Infrastructure as Code](jasoncabot-ms/aks-infra)
