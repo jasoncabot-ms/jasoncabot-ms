@@ -9,11 +9,11 @@ Microsoft
 
 # GitHub Demos
 
-* [Azure DevOps Integration](jasoncabot-ms/devops-demo-react-app-api)
-* [Codespaces](jasoncabot-ms/devops-demo-codespaces)
-* [Advanced Security](jasoncabot-ms/devops-demo-code-scanning)
+* [Azure DevOps Integration](//github.com/jasoncabot-ms/devops-demo-react-app-api)
+* [Codespaces](//github.com/jasoncabot-ms/devops-demo-codespaces)
+* [Advanced Security](//github.com/jasoncabot-ms/devops-demo-code-scanning)
 
 # AKS Demos
 
-* [Azure Arc](jasoncabot-ms/aks-arc-gitops)
-* [Infrastructure as Code](jasoncabot-ms/aks-infra)
+* [Azure Arc](//github.com/jasoncabot-ms/aks-arc-gitops)
+* [Infrastructure as Code](//github.com/jasoncabot-ms/aks-infra)
