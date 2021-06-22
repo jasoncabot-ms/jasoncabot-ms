@@ -15,5 +15,10 @@ Microsoft
 
 # AKS Demos
 
-* [Azure Arc](//github.com/jasoncabot-ms/aks-arc-gitops)
+* [GitOps](//github.com/jasoncabot-ms/aks-arc-gitops)
+* [Azure Arc for Kubernetes](//github.com/jasoncabot-ms/aks-arc-gitops)
 * [Infrastructure as Code](//github.com/jasoncabot-ms/aks-infra)
+
+# Demos
+* [Terraform Request](//github.com/jasoncabot-ms/demo-tf-infra-request)
+* [GitHub Actions Secrets](//github.com/jasoncabot-ms/demo-nested-secret-test)
