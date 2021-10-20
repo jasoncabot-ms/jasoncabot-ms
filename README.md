@@ -15,6 +15,7 @@ Microsoft
 
 # AKS Demos
 
+* [Containers 101](//github.com/jasoncabot-ms/containers-k8s-demo)
 * [GitOps](//github.com/jasoncabot-ms/aks-arc-gitops)
 * [Azure Arc for Kubernetes](//github.com/jasoncabot-ms/aks-arc-gitops)
 * [Infrastructure as Code](//github.com/jasoncabot-ms/aks-infra)
