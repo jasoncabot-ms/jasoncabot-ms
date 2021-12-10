@@ -12,6 +12,7 @@ Microsoft
 * [Azure DevOps Integration](//github.com/jasoncabot-ms/devops-demo-react-app-api)
 * [Codespaces](//github.com/jasoncabot-ms/devops-demo-codespaces)
 * [Advanced Security](//github.com/jasoncabot-ms/devops-demo-code-scanning)
+* [OIDC GitHub Action](//github.com/jasoncabot-ms/demo-github-actions-oidc)
 
 # AKS Demos
 
